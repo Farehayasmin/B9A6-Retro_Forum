@@ -5,6 +5,9 @@
 A dynamic web application that displays forum posts and allows users to interact with posts by marking them as read,
 powered by the [Programming Hero Retro Forum API](https://openapi.programming-hero.com/api/retro-forum/posts).
 
+
+Live Link:  https://farehayasmin.github.io/B9A6-Retro_Forum/
+
 ## 🚀 **Features**
 
 - **View All Posts:** Fetches and displays posts from the Retro Forum API.
@@ -24,6 +27,7 @@ powered by the [Programming Hero Retro Forum API](https://openapi.programming-he
 /index.html        # Main HTML file
 /style.css         # Tailwind CSS and Daisy UI styling
 /app.js            # JavaScript logic and API handling
+
 ```
 
 
